@@ -1,1 +1,0 @@
-# Ganzi_Frontend
