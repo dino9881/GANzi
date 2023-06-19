@@ -1,1 +1,1 @@
-# GANzi
+# Ganzi_Frontend
